@@ -1,4 +1,4 @@
-package com.interfacesegregation;
+package com.interfacesegregation.solution;
 
 public
 interface SocialMedia {
@@ -6,11 +6,5 @@ interface SocialMedia {
     void chat();
 
     public
-    void post();
-
-    public
     void sendPhotosAndVideos();
-
-    public
-    void videoCall();
 }

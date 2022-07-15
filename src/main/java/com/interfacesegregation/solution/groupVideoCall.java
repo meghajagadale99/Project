@@ -1,7 +1,7 @@
 package com.interfacesegregation.solution;
 
 public
-interface PublishPost {
+interface groupVideoCall {
     public
-    void post();
+    void videoCall();
 }

@@ -1,7 +1,7 @@
 package com.interfacesegregation;
 
 public
-class Facebook implements SocialMedia{
+class WhatsApp implements SocialMedia {
     public
     void chat() {
         System.out.println("1");

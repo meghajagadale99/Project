@@ -1,2 +1,10 @@
-package com.openclosed;public class Mobile {
+package com.openclosed;
+
+public
+class Facebook extends INotification{
+    @Override
+    public
+    void sendOtp() {
+        System.out.println("otp send successfully");
+    }
 }
